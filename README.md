@@ -1,14 +1,14 @@
 # Bug Bounty Guide
 
-This guide was created for the `Intro to Hacking Workshop`. In this guide, you will find how to write a basic bug bounty and the scoring system.
+This guide was created for the `Intro to Hacking Workshop`. In this guide, you will find how to write a basic bug bounty report and information on our scoring system.
 
 ## Bug Bounty 101
 
-A bug bounty report is a personal writing. Everyone will develop a style overtime. We encourage people to explore and use their own style. For these workshops, we developed a system that will hopefully make bug bounty reports simple. Take note that this procedure might change from company to company, make sure to read their bug bounty guide carefully.
+A bug bounty report is based on your personal writing style. Everyone will develop a style overtime. We encourage people to explore and use their own style. For these workshops, we developed a system that will hopefully keep your bug bounty reports simple. Take note that this procedure might change from company to company, so make sure to read their bug bounty guidelines carefully.
 
-### Writing a Bug Bounty
+### Writing a Bug Bounty Report
 
-We are looking for a clear and concise description of the bug. Assume that your audience is a beginner in security. We will favor bug bounties that explain concepts and include visual content. We will also consider bugs that have already been reported as long as the report isn't a total copy. Do not include any spoilers like CTF keys, passwords, etc (If you need the answer part of the explanation, censor a substantial amount of the word(s) with `*`). Bug bounties should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Following is a template bug bounty:
+We are looking for a clear and concise description of the bug. Assume that your audience is a beginner in security. We will favor bug bounties that explain concepts and include visual content. We will also consider bugs that have already been reported as long as the report isn't a total copy. Do not include any spoilers like CTF keys, passwords, etc (If you need the answer part of the explanation, censor a substantial amount of the word(s) with `*`). Bug bounties should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The following bug bounty template should give you an idea of the information you should include:
 
 ```
 # Descriptive Report Name
